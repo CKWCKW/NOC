@@ -1,0 +1,14 @@
+# Generated from CLion C/C++ Code Style settingsBasedOnStyle: LLVMAccessModifierOffset: -4AlignAfterOpenBracket: AlignAlignConsecutiveAssignments: NoneAlignOperands: DontAlignAIIOWAIIArgumentsOnNextLine: falseAIlOWAIIParametersOfDeclarationOnNextLine: falseAIlowShortBlocksOnASingleLine: Empty
+AIlowShortCaseLabelsOnASingleLine: false
+AIlowShortFunctionsOnASingleLine: None
+AllowShortIfStatementsOnASingleLine: Never
+AIlowShortLambdasOnASingleLine: EmptyAllowShortLoopsOnASingleLine: false
+AlwaysBreakAfterReturnType: None
+AlwaysBreakTemplateDeclarations: Yes
+BinPackArguments: falseBinPackParameters: false
+BreakBeforeBraces: CustomBracelrapping:AfterCaseLabel: false
+AfterClass: true
+AfterStruct; true
+AfterControlStatement: Never
+AfterEnum: trueAfterFunction: true
+AfterNamespace: trueAfterUnion: true
